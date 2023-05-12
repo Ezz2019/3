@@ -1,0 +1,154 @@
+body{
+    background-image:url(/Resources/hand3.jpg);
+    background-position:center;
+    background-attachment: scroll;
+    background-size: cover;
+    font-family: equinox;
+}
+label.logo{
+    color: #877900;
+    font-size: 50px;
+    line-height: 90px;
+    padding: 0 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-transform: uppercase;
+  }
+
+
+.form{
+    font-size: x-large;
+    color:#877900;
+    font-size: large;
+    font-weight:bolder;
+    padding:  0 600px;
+    width: 200px;
+    
+
+    
+}
+
+input[ type="text"]{
+    color:white;
+    border-color:#877900;
+    border-radius: 5px;
+    background-color: #00000077;
+    width: 250px;
+    height: 20px;
+   
+   }
+   input[ type="date"]{
+    color
+    :white;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+     
+     
+  }
+
+   input[ type="email"]{
+    color: white;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+    
+   }
+
+   input[ type="tel"]{
+    color: white;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+    
+
+   }
+   input[ type="password"]{
+    color: white;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+     
+   }
+
+   input[ type="text"]{
+    color:white;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+   }
+   
+   input[ type="file"]{
+    color: #877900;
+     border-color:#877900;
+     border-radius: 5px;
+     background-color: #00000077;
+     width: 250px;
+     height: 20px;
+   }
+ input[ type="submit"]{
+  background-color: #00000077;
+     color: #877900;
+     border-radius: 5px;
+
+ }
+ input[ type=reset]{
+  background-color: #00000077;
+     color: #877900;
+     border-radius: 5px;
+ }
+ #mainNav{
+  
+  color:  #877900;
+  position: sticky  ;
+  position:   -webkit-sticky;
+  border-radius: 15px;
+
+}
+#mainNav ul{
+  background-color: #00000077;  
+  border-radius: 13px;
+  padding: 2px;margin: 0;
+  list-style: none;
+  float: right; 
+  margin-right: 25%;
+  margin-top: 17px;
+}
+#mainNav li{
+display: inline;
+padding: 10px 10px;
+}
+#mainNav ul li a{
+  display: inline-block;
+  line-height: 50px;
+  border-radius: 8px;  
+}
+#mainNav a {
+  color: #877900;
+  font-size: x-large;
+  text-decoration: none;
+}
+#mainNav li:hover{
+background: #88780046;
+border-radius: 13px; 
+}
+
+
+ 
+
+ 
+ 
+  
+
+ 
+  

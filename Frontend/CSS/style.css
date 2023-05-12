@@ -1,0 +1,100 @@
+*{
+  margin:0;
+  padding:0 ;
+}
+
+h3{
+  color: #877900;
+  width: 80%;
+  border-radius: 13px;
+  margin-left: 105px;
+}
+
+/* button{
+  background: #87790069;
+  color: black;
+  font-family: equinox ;
+  border-radius: 13px;
+  text-transform: uppercase;
+float: right;
+} */
+p{
+
+  background: #00000077;
+  background-size: cover;
+  width: 80%;
+  border-radius: 13px; 
+  margin-left: 65px;
+ padding-bottom: 15px;
+ padding-left: 35px;
+}
+
+body{     font-family: equinox;
+  font-size: 16px;
+  
+  background-image: url(/Resources/hand3.jpg);
+  color: aliceblue;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;   
+  line-height: 1.6em;
+}
+#see{
+  /* color:#877900 ; */
+  text-transform:uppercase;
+  background: #87790069;
+  color: black;
+  text-decoration: none;
+float: right;
+margin-right: 15px;
+margin-top: 15px;
+border-radius: 8px;
+font-weight: bolder;
+
+/* line-height: 2em; */
+}
+label.logo{
+  color: #877900;
+  font-size: 50px;
+  line-height: 90px;
+  padding: 0 100px;
+  font-family: equinox;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+#mainNav{
+  
+  color:  #877900;
+  position: sticky  ;
+  position:   -webkit-sticky;
+  border-radius: 15px;
+
+}
+#mainNav ul{
+  background-color: #00000077;  
+  border-radius: 13px;
+  padding: 2px;margin: 0;
+  list-style: none;
+  float: right; 
+  margin-right: 25%;
+  margin-top: 17px;
+}
+#mainNav li{
+display: inline;
+padding: 10px 10px;
+}
+#mainNav ul li a{
+  display: inline-block;
+  line-height: 50px;
+  border-radius: 8px;  
+}
+#mainNav a {
+  color: #877900;
+  font-size: x-large;
+  text-decoration: none;
+}
+#mainNav li:hover{
+background: #88780046;
+border-radius: 13px; 
+}
+

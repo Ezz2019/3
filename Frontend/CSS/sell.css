@@ -1,0 +1,129 @@
+*{
+  margin:0;
+  padding:0 ;
+}
+body{     font-family: equinox;
+  font-size: 16px;
+  
+  background-image: url(/Resources/hand3.jpg);
+  color: aliceblue;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;   
+  line-height: 1.6em;}
+  label.logo{
+    color: #877900;
+    font-size: 50px;
+    line-height: 80px;
+    padding: 0 50px;
+    font-family: equinox;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 12px;
+  }
+  #mainNav{
+    
+    color:  #877900;
+    position: sticky  ;
+    position:   -webkit-sticky;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 280px;
+  
+  }
+  #mainNav ul{
+    background-color: #00000077;  
+    border-radius: 13px;
+    padding: 2px;
+    list-style: none;
+    float: right; 
+    margin-top: 20px;  ;
+    margin-right: 20%;
+  }
+  #mainNav li{
+  display: inline;
+  padding: 10px 10px;
+  }
+  #mainNav ul li a{
+    display: inline-block;
+    line-height: 50px;
+    border-radius: 8px;  
+  }
+  #mainNav a {
+    color: #877900;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  #mainNav li:hover{
+  background: #88780046;
+  border-radius: 13px; 
+  }
+  p#descript{
+
+    background: #00000077;
+    background-size: cover;
+    width: 80%;
+    border-radius: 13px; 
+    margin-left: 65px;
+   padding-bottom: 25px;
+   
+  }
+ #descript{
+     width: 498px;
+     height: 571px;
+     float: left;
+     margin-left: 100px;
+     margin-top: 35px;
+     padding-left: 15px;
+     padding-top: 10px;
+  }
+p#info{
+    background: #00000077;
+    background-size: cover;
+    width: 80%;
+    border-radius: 13px; 
+    margin-right: 65px; 
+    padding-left: 20px;
+   padding-bottom: 25px;
+   padding-top: none;
+   margin-right: 25%;
+
+  }
+  #info{
+    width: 320px;
+    height: 585px;
+    float:right ;
+    margin-right: 100px;
+    margin-top: 35px;
+    padding-right: 25px;
+    padding-top: 10px;
+  }
+  
+  h3{
+    color: #877900;
+    /* width: 80%; */
+    font-weight:bolder;
+    border-radius: 13px;
+    /* background: #88780046;  */
+    background-size: cover;
+    margin-left: 65px;
+    margin-top: 25px;
+  }
+  #offer{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 85px;
+    background: #877900;
+    padding-top: 15px;
+    padding-bottom:  15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    font-weight: bolder;
+    font-family: equinox;
+    text-transform: uppercase;
+    border-radius: 13px;
+
+  }
+  
+  

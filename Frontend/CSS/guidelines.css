@@ -1,0 +1,84 @@
+body{
+    background-image: url(/Resources/hand3.jpg);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    font-family: equinox;
+}
+
+
+label.logo{
+    color: #877900;
+    font-size: 50px;
+    line-height: 90px;
+    padding: 0 100px;
+    font-family:equinox;
+    font-weight: bolder;
+    text-transform: uppercase;
+  }
+  #mainNav{
+    
+    color:  #877900;
+    position: sticky  ;
+    position:-webkit-sticky;
+    border-radius: 15px;
+  
+  }
+  #mainNav ul{
+    background-color: #00000077;  
+    border-radius: 13px;
+    padding: 2px;margin: 0;
+    list-style: none;
+    float: right; 
+    margin-right: 4%;
+    margin-top: 20px;
+  }
+  #mainNav li{
+  display: inline;
+  padding: 10px 10px;
+  }
+  #mainNav ul li a{
+    display: inline-block;
+    line-height: 50px;
+    border-radius: 8px;  
+  }
+  #mainNav a {
+    color: #877900;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  #mainNav li:hover{
+  background: #88780046;
+  border-radius: 13px; 
+  }
+
+h1{
+    color:#877900;
+    font-size: 40px;
+    text-align: center;
+    line-height: 25px;
+}
+
+h2{
+    color:#877900;
+    background:#00000077; 
+    border-radius: 15px;
+    max-width: 120px; ;
+    line-height: 20px;
+}
+
+.auctions{
+  color: aliceblue;
+    background: #00000077;
+    border-radius: 15px;
+    max-width: 750px;
+    line-height: 20px;
+}
+
+.x{
+    color: aliceblue;
+    background: #00000077;
+    border-radius: 15px;
+    max-width: 750px;
+    line-height: 20px;
+}
